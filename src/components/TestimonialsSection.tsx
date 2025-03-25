@@ -8,7 +8,7 @@ const testimonials = [
     content: "Working with Zynlogic transformed our business. Their expertise in software development helped us streamline operations and improve customer experience.",
     author: "Sarah Johnson",
     position: "CEO, TechCorp",
-    avatar: "/src/images/sara.png",
+    avatar: "/images/profiles/sara.png",
     rating: 5
   },
   {
@@ -16,7 +16,7 @@ const testimonials = [
     content: "The team at Zynlogic delivered our project on time and exceeded our expectations. Their communication and technical skills are outstanding.",
     author: "Michael Chen",
     position: "CTO, MobiConnect",
-    avatar: "/src/images/Micheal.png",
+    avatar: "/images/profiles/Micheal.png",
     rating: 5
   },
   {
@@ -24,7 +24,7 @@ const testimonials = [
     content: "We've been working with Zynlogic for over 3 years now, and they've consistently delivered high-quality solutions for our complex requirements.",
     author: "Emily Rodriguez",
     position: "Product Manager, CloudSys",
-    avatar: "/src/images/Emily.png",
+    avatar: "/images/profiles/Emily.png",
     rating: 5
   },
 ];
